@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Software QA Manual & Automation Engineer - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/artemsokolov2/)
+### Hi there 👋 I'm Software QA Manual & Automation Engineer - :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/artemsokolov2)
    
 
  <div>
